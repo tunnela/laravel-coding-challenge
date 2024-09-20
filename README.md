@@ -2,12 +2,12 @@
 
 The original code of the challenge included database migrations, models and empty controllers/tests. My task was to create REST API endpoints for managing players and additional endpoint for finding best players for a team based on required positions and skills. In addition to this, tests had to be created to test the API endpoints. API endpoints do not have auth as that wasn't a requirement. My code can be found in the following files:
 
-/app/Http/Controllers/*
-/app/Http/Requests/*
-/app/Http/Resources/*
-/app/Enums/*
-/app/Rules/*
-/tests/Feature/*
+- /app/Http/Controllers/*
+- /app/Http/Requests/*
+- /app/Http/Resources/*
+- /app/Enums/*
+- /app/Rules/*
+- /tests/Feature/*
 
 ### Requirements
 - PHP = 8.1
